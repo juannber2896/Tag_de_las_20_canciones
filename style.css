@@ -1,0 +1,10 @@
+.titulo1{
+    background-color: rgb(120, 120, 196);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+}
+.titulo2{
+    font-family: 'Secular One', sans-serif;
+}
