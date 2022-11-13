@@ -8,3 +8,16 @@
 .titulo2{
     font-family: 'Secular One', sans-serif;
 }
+}
+.titulo3{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-image: url(https://media.tenor.com/_yFLs1OWgBAAAAAC/vinyl-disc-dance-music.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
